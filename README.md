@@ -6,3 +6,5 @@
 
 ![image](https://github.com/diadestiny/PE-File-Analysis-Tool/blob/master/images/image1.png)
 
+![image](https://github.com/diadestiny/PE-File-Analysis-Tool/blob/master/images/image2.png)
+
