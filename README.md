@@ -4,6 +4,6 @@
 
 ### 程序截图:
 
-![image](https://github.com/diadestiny/PE-File-Analysis-Tool/blob/master/image/image1.jpg)
+![image](https://github.com/diadestiny/PE-File-Analysis-Tool/blob/master/image/image1.png)
 
-![image](https://github.com/diadestiny/PE-File-Analysis-Tool/blob/master/image/image2.jpg)
+![image](https://github.com/diadestiny/PE-File-Analysis-Tool/blob/master/image/image2.png
