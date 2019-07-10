@@ -2,7 +2,7 @@
 
 ## ps:nnnn个月前用qt写的一个小玩意（关于pe文件结构的分析）
 
-### 程序截图:
+### 程序运行部分截图:
 
 ![image](https://github.com/diadestiny/PE-File-Analysis-Tool/blob/master/images/image1.png)
 
